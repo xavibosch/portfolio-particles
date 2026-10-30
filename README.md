@@ -1,3 +1,5 @@
+> **Archived.** This was my previous portfolio. The current one is the cardholder at [boschwebs.website](https://boschwebs.website), source in [xavibosch/portfolio](https://github.com/xavibosch/portfolio). This version is still online at [portfolio-tau-one-93.vercel.app](https://portfolio-tau-one-93.vercel.app).
+
 <div align="center">
 
 # Xavi Bosch — Portfolio
@@ -8,7 +10,7 @@ A horizontal deck of four panels, driven by a 7,200-particle Canvas engine that
 samples real photographs and morphs between them — then flies across the screen
 to *become* the next section's content.
 
-[**boschwebs.website**](https://boschwebs.website) · Interactive Product Design @ La Salle Barcelona
+[**portfolio-tau-one-93.vercel.app**](https://portfolio-tau-one-93.vercel.app) · Interactive Product Design @ La Salle Barcelona
 
 ![React](https://img.shields.io/badge/React-18-20232A?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=flat-square&logo=vite&logoColor=white)
